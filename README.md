@@ -9,11 +9,11 @@ Kitty terminal configuration for the **Imperator** ricing — amber CRT palette,
 
 ### Showcase
 
-[Kitty & NVim](kitty/assets/img1.png)
+![Kitty & NVim](kitty/assets/img1.png)
 
-[kitty & bat](kitty/assets/img2)
+![kitty & bat](kitty/assets/img2)
 
-[kitty, cava & btop](kitty/assets/img3.png)
+![kitty, cava & btop](kitty/assets/img3.png)
 
 ---
 
